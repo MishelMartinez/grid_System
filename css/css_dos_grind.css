@@ -1,0 +1,74 @@
+/*  imagenes  */
+
+
+.contenedor{
+	margin: 0;
+}
+.tamano_img{
+	width: 210px;
+	height: 210px;
+}
+h2{
+	font-size:serif;
+}
+.more_Tamano{
+	font-size: 15px;
+	text-decoration: none;
+}
+.segunda_parte .col-3{
+	text-align: center;
+	padding: 15px 0px; /*  espacio de las imagenes de la fila 2 ...., col-3  */
+
+}
+.segunda_parte{
+	background-color: #DF0101; /*color de fondo (rojo) de fila 2  */
+}
+
+.segunda_parte{
+	font-family: sans-serif;
+	font-size: 15px;
+}
+/*  TERCERA FILA....MORE,,ALBUMES  */
+.tercera_parte{/* */
+	height: 70px;
+	background-color: yellow;
+	padding: 25px 0px;/* separacion texto de la fila 3 */
+
+}
+
+
+.tercera_parte h4{
+	font-family: sans-serif;
+	font-size: 18px;
+	text-align: center;	
+	color: white;
+	background:black;
+}
+
+/* cuarta fila */
+.cuarta_parte{
+	margin: 0px;
+}
+.cuarta_parte{
+	background-color:#DF0101;
+	height: 100%;
+}
+
+.video{
+height: 200px;
+width: 200px;
+margin: 10px 0;
+}
+.segunda_parte .h2{
+	font-family: sans-serif;
+	font-size: 15px;
+
+}
+
+.cuarta_parte{
+	background-color: #DF0101;
+}
+.tamano2_img{
+	width: 100px;
+	height: 100px;
+}
